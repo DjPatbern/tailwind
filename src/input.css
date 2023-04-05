@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 .radial-blue {
-    background: radial-gradient(lightyellow, skyblue);
+  background: radial-gradient(lightyellow, skyblue);
+  color: black;
 }
